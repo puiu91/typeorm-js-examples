@@ -17,5 +17,4 @@ Example has been modified from original source examples, combining:
 * edit `ormconfig.json` and change your database configuration (you can also
  change a database type, but don't forget to install specific database drivers)
 * run `cd src/app2-es6-with-babel`
-* run `node src/app2-es6-with-babel/index.js` to run simple example of usage
- with ES6.
+* run `npm start` 
